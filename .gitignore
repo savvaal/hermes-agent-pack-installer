@@ -1,0 +1,4 @@
+# Local extracted research/source files. Do not publish paid/third-party course materials.
+sources/
+*.crdownload
+.DS_Store
