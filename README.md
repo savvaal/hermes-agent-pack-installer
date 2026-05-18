@@ -12,7 +12,7 @@ VIP_TOKEN=demo ./bootstrap-de.sh
 ## Ziel später
 
 ```bash
-curl -fsSL https://deine-domain.de/install.sh | bash -s -- --token VIP_TOKEN
+curl -fsSL https://raw.githubusercontent.com/savvaal/hermes-agent-pack-installer/main/install.sh | bash -s -- --token VIP_TOKEN
 ```
 
 ## Enthalten

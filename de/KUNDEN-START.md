@@ -61,7 +61,7 @@ Du bekommst von uns einen VIP-Token.
 Dann kopierst du nur diese Zeile in dein Terminal:
 
 ```bash
-curl -fsSL https://DEINE-DOMAIN.de/install.sh | bash -s -- --token DEIN_VIP_TOKEN
+curl -fsSL https://raw.githubusercontent.com/savvaal/hermes-agent-pack-installer/main/install.sh | bash -s -- --token DEIN_VIP_TOKEN
 ```
 
 Der Installer erledigt automatisch:
